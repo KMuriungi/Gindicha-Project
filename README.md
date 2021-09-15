@@ -1,2 +1,2 @@
-# Gindicha-Sora-Project
+# Gindicha-Project
 Water and Sanitation Engineering Project
